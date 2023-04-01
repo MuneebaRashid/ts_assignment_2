@@ -28,8 +28,8 @@ model the specific characteristics of each type of vehicle.
 and return() methods to make sure they work as expected.
 
 Instructions:
-● Do not use any front-end library for it, It has to be TS only. 
-● Every point has 10 numbers so total marks for this assignment will be 100. 
-● If your code found out to be copied from anywhere. You will immediately be terminated from the course and permanently blacklisted from every SMIT course forever. 
-● Deadline for this assignment is Saturday, 1st April - 9:00 PM sharp. 
-● Not submitting the assignment on time will lead to the termination from the course.
+● Do not use any front-end library for it, It has to be TS only.\
+● Every point has 10 numbers so total marks for this assignment will be 100.\
+● If your code found out to be copied from anywhere. You will immediately be terminated from the course and permanently blacklisted from every SMIT course forever.\
+● Deadline for this assignment is Saturday, 1st April - 9:00 PM sharp.\
+● Not submitting the assignment on time will lead to the termination from the course.\
