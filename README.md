@@ -27,7 +27,7 @@ model the specific characteristics of each type of vehicle.
 10. In the main program, create instances of each type of vehicle and test the rent()
 and return() methods to make sure they work as expected.
 
-Instructions:
+Instructions:\
 ● Do not use any front-end library for it, It has to be TS only.\
 ● Every point has 10 numbers so total marks for this assignment will be 100.\
 ● If your code found out to be copied from anywhere. You will immediately be terminated from the course and permanently blacklisted from every SMIT course forever.\
