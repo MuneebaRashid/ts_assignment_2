@@ -1,4 +1,4 @@
-#TypeScript class hierarchy to model a vehicle rental system: 
+# TypeScript class hierarchy to model a vehicle rental system: 
 
 1. Start by creating an abstract class called Vehicle that will serve as the base class
 for all types of vehicles in the rental system.
